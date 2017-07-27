@@ -14,7 +14,7 @@ Here are some links for learning Haskell:
 
 ### Exercise
 
-The exercise can be get from [CIS 194](http://www.seas.upenn.edu/~cis194/spring13/lectures.html). Try it. I did not solve them all. :)
+The exercise can be obtained from [CIS 194](http://www.seas.upenn.edu/~cis194/spring13/lectures.html). Try it. I did not solve them all. :)
 
 ### Note
 
